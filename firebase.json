@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "build",
-    "site": "netflix-clone-bharath-vi-f1753",
     "ignore": [
       "firebase.json",
       "**/.*",

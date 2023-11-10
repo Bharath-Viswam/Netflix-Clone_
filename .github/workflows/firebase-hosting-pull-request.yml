@@ -13,6 +13,6 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: >-
-            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NETFLIX_CLONE_BHARATH_VI_F1753
+            ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NETFLIX_CLONE_BHARATH_VI_D0AB6
             }}
-          projectId: netflix-clone-bharath-vi-f1753
+          projectId: netflix-clone-bharath-vi-d0ab6
